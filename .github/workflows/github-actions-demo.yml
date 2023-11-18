@@ -5,6 +5,13 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
+      - uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
       - uses: Platane/snk@v3
         with:
           # github user name to read the contribution graph from (**required**)
@@ -24,4 +31,5 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        
       
