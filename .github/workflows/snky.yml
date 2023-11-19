@@ -60,7 +60,6 @@ jobs:
           plugin_lines_history_limit: 1
           repositories_skipped: |
             @use.patterns
-            */*
             +lowlighter/metrics
       - name: Detailed display
         uses: lowlighter/metrics@latest
