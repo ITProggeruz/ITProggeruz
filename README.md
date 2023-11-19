@@ -23,6 +23,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ITProggerUZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![repo diff hist](https://raw.githubusercontent.com/ITProggeruz/ITProggeruz/main/metrics.plugin.lines.history.svg)
+
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
