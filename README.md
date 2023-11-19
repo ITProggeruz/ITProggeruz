@@ -40,3 +40,5 @@
 
 ![snake svg](https://raw.githubusercontent.com/ITProggeruz/ITProggeruz/output/github-contribution-grid-snake-dark.svg)
 ![contrib 3d](https://raw.githubusercontent.com/ITProggeruz/ITProggeruz/main/metrics.plugin.isocalendar.fullyear.svg)
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=270&section=header&text=Thank%20You&fontSize=90&desc=For%20Reading%20about%20me!&animation=fadeIn)
